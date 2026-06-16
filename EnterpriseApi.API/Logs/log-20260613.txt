@@ -1,0 +1,43 @@
+2026-06-13 13:53:13.563 +05:30 [INF] Application Starting
+2026-06-13 13:55:52.233 +05:30 [INF] Application Starting
+2026-06-13 13:58:30.117 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-13 13:58:30.120 +05:30 [INF] Hosting environment: Development
+2026-06-13 13:58:30.122 +05:30 [INF] Content root path: D:\MK Test\EnterpriseApiSolution\EnterpriseApi.API
+2026-06-13 13:58:33.385 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44301/  
+2026-06-13 13:58:35.889 +05:30 [INF] Request finished in 2508.5185ms 404 
+2026-06-13 13:58:59.708 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44301/  
+2026-06-13 13:58:59.857 +05:30 [INF] Request finished in 100.8589ms 404 
+2026-06-13 14:00:01.960 +05:30 [INF] Application Starting
+2026-06-13 14:05:24.989 +05:30 [INF] Application Starting
+2026-06-13 14:05:29.758 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-13 14:05:29.760 +05:30 [INF] Hosting environment: Development
+2026-06-13 14:05:29.762 +05:30 [INF] Content root path: D:\MK Test\EnterpriseApiSolution\EnterpriseApi.API
+2026-06-13 14:05:29.943 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44301/  
+2026-06-13 14:05:30.096 +05:30 [INF] Request finished in 149.6137ms 404 
+2026-06-13 14:05:40.486 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44301/  
+2026-06-13 14:05:40.592 +05:30 [INF] Request finished in 80.5533ms 404 
+2026-06-13 14:42:18.570 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44301/swagger  
+2026-06-13 14:42:18.739 +05:30 [INF] Request finished in 175.2834ms 301 
+2026-06-13 14:42:18.739 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44301/swagger/index.html  
+2026-06-13 14:42:18.900 +05:30 [INF] Request finished in 161.326ms 200 text/html;charset=utf-8
+2026-06-13 14:42:18.962 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44301/swagger/swagger-ui.css  
+2026-06-13 14:42:18.968 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44301/swagger/swagger-ui-bundle.js  
+2026-06-13 14:42:18.969 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44301/swagger/swagger-ui-standalone-preset.js  
+2026-06-13 14:42:21.553 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-06-13 14:42:21.553 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-06-13 14:42:21.557 +05:30 [INF] Request finished in 2594.7593ms 200 text/css
+2026-06-13 14:42:21.557 +05:30 [INF] Request finished in 2588.1733ms 200 application/javascript
+2026-06-13 14:42:21.562 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-06-13 14:42:21.562 +05:30 [INF] Request finished in 2593.7559ms 200 application/javascript
+2026-06-13 14:42:21.736 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44301/swagger/v1/swagger.json  
+2026-06-13 14:42:21.772 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44301/swagger/favicon-32x32.png  
+2026-06-13 14:42:21.774 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-06-13 14:42:21.775 +05:30 [INF] Request finished in 2.8969ms 200 image/png
+2026-06-13 14:42:21.878 +05:30 [INF] Request finished in 142.2517ms 200 application/json;charset=utf-8
+2026-06-13 14:48:33.960 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44301/api/v1/health  
+2026-06-13 14:48:34.080 +05:30 [INF] Executing endpoint 'EnterpriseApi.API.Controllers.HealthController.Get (EnterpriseApi.API)'
+2026-06-13 14:48:34.198 +05:30 [INF] Route matched with {action = "Get", controller = "Health"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller EnterpriseApi.API.Controllers.HealthController (EnterpriseApi.API).
+2026-06-13 14:49:02.352 +05:30 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-06-13 14:49:02.497 +05:30 [INF] Executed action EnterpriseApi.API.Controllers.HealthController.Get (EnterpriseApi.API) in 28261.0416ms
+2026-06-13 14:49:02.506 +05:30 [INF] Executed endpoint 'EnterpriseApi.API.Controllers.HealthController.Get (EnterpriseApi.API)'
+2026-06-13 14:49:02.507 +05:30 [INF] Request finished in 28557.7001ms 200 application/json; charset=utf-8

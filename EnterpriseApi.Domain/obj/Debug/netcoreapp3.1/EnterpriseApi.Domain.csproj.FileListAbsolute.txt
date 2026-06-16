@@ -1,0 +1,9 @@
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Domain\bin\Debug\netcoreapp3.1\EnterpriseApi.Domain.deps.json
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Domain\bin\Debug\netcoreapp3.1\EnterpriseApi.Domain.dll
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Domain\bin\Debug\netcoreapp3.1\EnterpriseApi.Domain.pdb
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Domain\obj\Debug\netcoreapp3.1\EnterpriseApi.Domain.AssemblyInfoInputs.cache
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Domain\obj\Debug\netcoreapp3.1\EnterpriseApi.Domain.AssemblyInfo.cs
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Domain\obj\Debug\netcoreapp3.1\EnterpriseApi.Domain.csproj.CoreCompileInputs.cache
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Domain\obj\Debug\netcoreapp3.1\EnterpriseApi.Domain.dll
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Domain\obj\Debug\netcoreapp3.1\EnterpriseApi.Domain.pdb
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Domain\obj\Debug\netcoreapp3.1\EnterpriseApi.Domain.csprojAssemblyReference.cache

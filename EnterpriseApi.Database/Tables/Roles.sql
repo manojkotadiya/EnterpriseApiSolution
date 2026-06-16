@@ -1,0 +1,11 @@
+CREATE TABLE dbo.Roles
+(
+    RoleId UNIQUEIDENTIFIER NOT NULL
+        CONSTRAINT PK_Roles
+        PRIMARY KEY,
+
+    RoleName NVARCHAR(100) NOT NULL UNIQUE,
+
+    Description NVARCHAR(500) NULL
+);
+GO

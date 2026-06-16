@@ -1,0 +1,17 @@
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\bin\Debug\netcoreapp3.1\EnterpriseApi.Persistence.deps.json
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\bin\Debug\netcoreapp3.1\EnterpriseApi.Persistence.runtimeconfig.json
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\bin\Debug\netcoreapp3.1\EnterpriseApi.Persistence.runtimeconfig.dev.json
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\bin\Debug\netcoreapp3.1\EnterpriseApi.Persistence.dll
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\bin\Debug\netcoreapp3.1\EnterpriseApi.Persistence.pdb
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\bin\Debug\netcoreapp3.1\EnterpriseApi.Application.dll
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\bin\Debug\netcoreapp3.1\EnterpriseApi.Domain.dll
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\bin\Debug\netcoreapp3.1\EnterpriseApi.Application.pdb
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\bin\Debug\netcoreapp3.1\EnterpriseApi.Domain.pdb
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\obj\Debug\netcoreapp3.1\EnterpriseApi.Persistence.csprojAssemblyReference.cache
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\obj\Debug\netcoreapp3.1\EnterpriseApi.Persistence.AssemblyInfoInputs.cache
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\obj\Debug\netcoreapp3.1\EnterpriseApi.Persistence.AssemblyInfo.cs
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\obj\Debug\netcoreapp3.1\EnterpriseApi.Persistence.csproj.CoreCompileInputs.cache
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\obj\Debug\netcoreapp3.1\EnterpriseApi.Persistence.csproj.CopyComplete
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\obj\Debug\netcoreapp3.1\EnterpriseApi.Persistence.dll
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\obj\Debug\netcoreapp3.1\EnterpriseApi.Persistence.pdb
+D:\MK Test\EnterpriseApiSolution\EnterpriseApi.Persistence\obj\Debug\netcoreapp3.1\EnterpriseApi.Persistence.genruntimeconfig.cache
